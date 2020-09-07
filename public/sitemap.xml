@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-06T14:33:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-09-06T14:33:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/towards-geospatial-data-science/</loc>
+    <lastmod>2020-09-06T14:33:01-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/about/</loc>
   </url>
   
@@ -12,10 +27,6 @@
   
   <url>
     <loc>http://example.org/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
   </url>
   
   <url>
