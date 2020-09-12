@@ -6,7 +6,7 @@
             <div class="inner" style="padding-top: 1rem;">
                 <div class="content">
                     {{ range where .Site.RegularPages "Type" "blog" }}
-                        <section class="spotlight style1 orient-right">
+                        <section class="spotlight style2 orient-right">
                             <div class="content">
                                 <h3>
                                     {{ .Title }}
@@ -21,7 +21,7 @@
                                 </ul>
                             </div>
                             <div class="image">
-                                <img src="{{ .Params.thmbnail }}" alt="Alternate text" />
+                                <img src="{{ .Params.image }}" alt="Alternate text" />
                             </div>
                         </section>
                         <hr>

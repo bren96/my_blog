@@ -1,3 +1,17 @@
 {{ define "content" }}
 {{ partial "navbar" . }}
+<section class="wrapper style1 align-left">
+    <div class="inner" style="padding-top: 1rem;">
+    <section class="spotlight onscroll-image-fade-in style2 orient-right content-align-left image-position-center" id="first">
+        <div class="content">
+            <h1>{{ .Title }}</h1>
+            <p>{{ .Summary }}</p>
+        </div>
+        <div class="image">
+            <img src="{{ .Params.image }}" alt="Thumbnail">
+        </div>
+    </section>
+        {{ .Content }}
+    </div>
+</section>
 {{ end }}

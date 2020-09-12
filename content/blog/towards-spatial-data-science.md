@@ -1,0 +1,18 @@
+---
+title: "Towards Spatial Data Science"
+date: 2020-09-06T14:33:01-04:00
+draft: false
+summary: Welcome to my blog!
+image: "/lse-library-DjCx_uyhO6c-unsplash.jpg"
+photo_credit: "<span>Photo by <a href='https://unsplash.com/@londonschoolofeconomics?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>LSE Library</a> on <a href='https://unsplash.com/s/photos/map?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>"
+---
+## Welcome!
+Hello, and welcome to my first blog post. I have never been a creative writer or active on social media, and so maintaining this blog will be both a personal challenge and an excellent opportunity for me to share my growth. Before college, writing had always been a struggle for me; however, something clicked in those four years. I now view writing as one of my strongest skills. These days I only write in a professional setting. This blog will be a way to share my curiosity and challenge myself to express complicated subject matter clearly and creatively.
+## My Journey
+I always considered myself a "jack of all trades" student. I was deeply interested in social studies, math, science, and art. During my freshman year of college, I took a geography class and realized I had unknowingly found the overlap of all my academic interests. I loved the study of places, the analysis of data, and the art of cartography.
+Later that year, I declared my major as Geography. As I studied GIS (Geographic Information Systems), I gravitated towards geography's analytical side, specifically statistical modeling. I took advantage of multiple opportunities to work closely with fantastic professors working on spatial modeling research. I believe this was my first step toward data science, but it wasn't for a few more years until I heard the term for the first time.
+Since graduating, each role I've held has primarily involved data cleaning, analysis, and visualization for local government. In these positions, I discovered a love for programming and taught myself python to automate many of my data processing workflows. I quickly found myself using every free moment to further develop my new passion. After researching possible directions I would like to take my career, I came across the facinating field of spatial data science.
+## Looking Forward
+To start my journey, I bought a book titled **["Build a Career in Data Science"](https://www.manning.com/books/build-a-career-in-data-science)** by Emily Robinson and Jacquelin Nolis. One of the first chapters focuses on building a portfolio and showing off your thinking and projects through a blog. Through blogging, you can highlight not only your ability to work with data but also your ability to communicate insights from data. I'm following their advice and have developed this blog to document my data science journey (with a spatial focus).
+Currently, I am a Planning Technician at a local government planning and community development office. I am drawn to the optimism and forward-thinking of the planning field and hope to bridge the gap between planners and programmers. There are sparse opportunities to do traditional data science in my current role, so I know I must teach myself the techniques and principles in my own time.
+Looking forward, I see a long path ahead of me, but I am eager to get started. As a planner, I understand the importance of developing a plan, and so that will be the focus of my second blog post, a Roadmap to Spatial Data Science.
