@@ -11,5 +11,14 @@
 	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Ag_district_ML</title>
+      <link>http://example.org/projects/ag_district_ml/</link>
+      <pubDate>Wed, 16 Sep 2020 20:52:33 -0400</pubDate>
+      
+      <guid>http://example.org/projects/ag_district_ml/</guid>
+      <description>Using Machine Learning to review Agricutural Districts</description>
+    </item>
+    
   </channel>
 </rss>

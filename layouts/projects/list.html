@@ -1,4 +1,27 @@
 {{ define "content" }}
-{{ partial "navbar" . }}
-{{ partial "gallery" . }}
+    {{ partial "navbar" . }}
+    <div id="wrapper">
+        <section class="wrapper style1">
+            <h2 class="align-center">Projects</h2>
+            <div class="align-center">
+                <a class="button primary fit" href="">View Map Gallery</a>
+            </div>
+            <div class="inner" style="padding-top: 1rem;">
+                <div class="content">
+                    <div class="items style1 medium">
+                        {{ range where .Site.RegularPages "Type" "projects"}}
+                        <section>
+                            <div class="image fit">
+                                <img src="{{ .Params.image }}" alt="Alternate text" />
+                            </div>
+                            <h3>{{ .Title }}</h3>
+                            <p>{{ .Summary }}</p>
+                            <a class="button" href="{{ .Permalink }}">Read More</a>
+                        </section>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
 {{ end }}
